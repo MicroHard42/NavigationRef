@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "91b10435ec1b88342f1657fa5e358eec87b9512a4d7cc91ae17504663115b54d"
+    },
+    {
+      "guid" : "91b10435ec1b88342f1657fa5e358eecc4c3f76c6106c5109f8984ed8faddb05"
+    },
+    {
+      "guid" : "91b10435ec1b88342f1657fa5e358eec97dd065b31451a1fc730b09ad95003d1"
+    }
+  ],
+  "containerPath" : "/Users/adam/Projects/NavigationRef/NavigationRef.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/adam/Projects/NavigationRef/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Build/Products",
+      "pchPath" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

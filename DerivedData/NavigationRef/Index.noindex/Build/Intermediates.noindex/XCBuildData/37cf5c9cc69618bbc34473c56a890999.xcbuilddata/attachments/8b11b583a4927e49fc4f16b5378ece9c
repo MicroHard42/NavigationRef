@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphoneos/NavigationRef.build/Objects-normal/arm64/NavigationRef-master.d",
+    "diagnostics" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphoneos/NavigationRef.build/Objects-normal/arm64/NavigationRef-master.dia",
+    "emit-module-dependencies" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphoneos/NavigationRef.build/Objects-normal/arm64/NavigationRef-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphoneos/NavigationRef.build/Objects-normal/arm64/NavigationRef-master-emit-module.dia",
+    "swift-dependencies" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphoneos/NavigationRef.build/Objects-normal/arm64/NavigationRef-master.swiftdeps"
+  },
+  "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphoneos/NavigationRef.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/adam/Projects/NavigationRef/NavigationRef/Item.swift" : {
+
+  },
+  "/Users/adam/Projects/NavigationRef/NavigationRef/NavView.swift" : {
+
+  },
+  "/Users/adam/Projects/NavigationRef/NavigationRef/NavigationRefApp.swift" : {
+
+  }
+}

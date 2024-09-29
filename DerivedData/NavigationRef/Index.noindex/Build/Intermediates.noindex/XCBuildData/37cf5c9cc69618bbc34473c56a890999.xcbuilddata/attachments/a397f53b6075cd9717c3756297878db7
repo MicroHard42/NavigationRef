@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphonesimulator/NavigationRefUITests.build/Objects-normal/arm64/NavigationRefUITests-master.d",
+    "diagnostics" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphonesimulator/NavigationRefUITests.build/Objects-normal/arm64/NavigationRefUITests-master.dia",
+    "emit-module-dependencies" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphonesimulator/NavigationRefUITests.build/Objects-normal/arm64/NavigationRefUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphonesimulator/NavigationRefUITests.build/Objects-normal/arm64/NavigationRefUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/adam/Projects/NavigationRef/DerivedData/NavigationRef/Index.noindex/Build/Intermediates.noindex/NavigationRef.build/Debug-iphonesimulator/NavigationRefUITests.build/Objects-normal/arm64/NavigationRefUITests-master.swiftdeps"
+  },
+  "/Users/adam/Projects/NavigationRef/NavigationRefUITests/NavigationRefUITests.swift" : {
+
+  },
+  "/Users/adam/Projects/NavigationRef/NavigationRefUITests/NavigationRefUITestsLaunchTests.swift" : {
+
+  }
+}

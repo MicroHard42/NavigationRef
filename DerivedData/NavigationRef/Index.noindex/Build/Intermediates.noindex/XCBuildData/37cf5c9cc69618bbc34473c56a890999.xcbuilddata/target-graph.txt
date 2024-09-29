@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'NavigationRefUITests' in project 'NavigationRef' (no dependencies)
+Target 'NavigationRefUITests' in project 'NavigationRef'
+➜ Explicit dependency on target 'NavigationRef' in project 'NavigationRef'
+Target 'NavigationRefUITests' in project 'NavigationRef'
+➜ Explicit dependency on target 'NavigationRef' in project 'NavigationRef'
+Target 'NavigationRefTests' in project 'NavigationRef' (no dependencies)
+Target 'NavigationRefTests' in project 'NavigationRef'
+➜ Explicit dependency on target 'NavigationRef' in project 'NavigationRef'
+Target 'NavigationRefTests' in project 'NavigationRef'
+➜ Explicit dependency on target 'NavigationRef' in project 'NavigationRef'
+Target 'NavigationRef' in project 'NavigationRef' (no dependencies)
+Target 'NavigationRef' in project 'NavigationRef' (no dependencies)
